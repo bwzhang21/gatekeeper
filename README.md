@@ -36,6 +36,12 @@ Review actions (**Accept**, **Ask for more information**, **Decline**) require c
 
 ## Gatekeeper Demo
 
+A 20-second walkthrough of the Dashboard, Applications, Review Queue (including an Accept confirmation), and Shared Blocklist:
+
+https://github.com/bwzhang21/gatekeeper/blob/main/docs/demo.mp4
+
+[Download the demo video](docs/demo.mp4)
+
 Here are screenshots of the Gatekeeper prototype.
 
 ### Demo 1

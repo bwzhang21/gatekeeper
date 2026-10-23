@@ -47,7 +47,7 @@ export function ConfirmDialog() {
       <button
         type="button"
         className="absolute inset-0 bg-slate-950/50"
-        aria-label="Close confirmation"
+        aria-label="Dismiss dialog"
         onClick={closeConfirm}
       />
       <div
